@@ -1,4 +1,4 @@
-# Análisis de Ventas y Productividad para la Venta de una Tienda
+# Alura Store - Análisis 
 
 ## Descripción del Proyecto
 
