@@ -17,7 +17,7 @@ El proyecto se desarrolla utilizando el lenguaje de programación Python y la li
 ## Herramientas Utilizadas
 
 * **Lenguaje de Programación:** Python
-* **Librería para la Manipulación de Datos:** Pandas
+* **Librería para la Manipulación de Datos:** Pandas, Matplotlib, numpy
 * **Estructuras de Datos:** Listas
 * **Lógica:** Condicionales, Funciones
 * **Visualización:** Gráficos
